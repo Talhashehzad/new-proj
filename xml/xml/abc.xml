@@ -1,0 +1,43 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<note date="12/11/2002">
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend!</body>
+  </note>
+
+  <note>
+    <date>12/11/2002</date>
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend!</body>
+  </note>
+
+  <note>
+    <date>
+      <day>12</day>
+      <month>11</month>
+      <year>2002</year>
+    </date>
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend!</body>
+  </note>
+
+  <messages>
+    <note id="p501">
+      <to>Tove</to>
+      <from>Jani</from>
+      <heading>Reminder</heading>
+      <body>Don't forget me this weekend!</body>
+    </note>
+    
+    <note id="p502">
+      <to>Jani</to>
+      <from>Tove</from>
+      <heading>Re: Reminder</heading>
+      <body>I will not!</body>
+    </note>
+    </messages>
